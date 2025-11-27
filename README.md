@@ -5,10 +5,10 @@ Aquí se van a recopilar distintos **mini-labs prácticos** centrados en aprendi
 
 El objetivo de este proyecto es ofrecer entornos simples y reproducibles para que cualquiera pueda:
 
-- practicar técnicas de pentesting de forma segura;  
-- aprender conceptos básicos y avanzados;  
-- montar fácilmente los labs en su máquina;  
-- ampliar o modificar los entornos según su nivel.
+- practicar técnicas de pentesting de forma segura; 
+- aprender conceptos básicos y avanzados
+- montar fácilmente los labs en su máquina
+- ampliar o modificar los entornos según su nivel
 
 Todos los laboratorios están diseñados para ser **educativos**, **locales** y **seguros**, sin depender de máquinas externas.
 
@@ -20,8 +20,7 @@ Cada laboratorio se encuentra en su propia carpeta, junto con un `README.md` esp
 
 - propósito del lab,  
 - cómo montarlo,  
-- qué se pretende aprender,  
-- pistas opcionales,  
+- qué se pretende aprender,   
 - y notas adicionales.
 
 La idea es que este repo crezca con diferentes áreas: web, OSINT, fuzzing, networking, forense, etc.
