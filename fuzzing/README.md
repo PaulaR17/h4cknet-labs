@@ -78,8 +78,6 @@ dirsearch -u http://localhost/fuzzing/
 
 ## ¿Qué deberías encontrar?
 
-Sin revelar spoilers:
-
 - Directorios de uso interno.
 - Copias antiguas del sitio.
 - Archivos de backup.
@@ -94,7 +92,7 @@ Importante: fuzzear también dentro de las rutas que encuentres.
 
 Este laboratorio contiene:
 
-**4 flags en total.**
+**4 flags en total**
 
 Distribuidas en distintas ubicaciones del entorno.
 
