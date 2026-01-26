@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>JWT Lab - Login</title>
+  <link rel="stylesheet" href="/public/style.css">
+</head>
+<body>
+  <div class="card">
+    <h1>Login</h1>
+    <p>Usuarios de prueba:</p>
+    <ul>
+      <li><b>alice</b> / password123 (user)</li>
+      <li><b>bob</b> / password123 (user)</li>
+      <li><b>admin</b> / admin123 (admin)</li>
+    </ul>
+
+    <form method="POST" action="/login" class="form">
+      <label>Username</label>
+      <input name="username" placeholder="alice" required />
+
+      <label>Password</label>
+      <input name="password" type="password" placeholder="password123" required />
+
+      <button type="submit">Entrar</button>
+    </form>
+
+    <p class="hint">Tip taller: mira la cookie <code>auth</code> y decodifica el JWT.</p>
+    <p><a href="/">Volver</a></p>
+  </div>
+</body>
+</html>

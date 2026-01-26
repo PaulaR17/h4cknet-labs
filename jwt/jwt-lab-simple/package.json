@@ -1,0 +1,14 @@
+{
+  "name": "jwt-lab-simple-vuln",
+  "version": "1.0.0",
+  "description": "Mini web vulnerable para taller JWT (solo laboratorio)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}

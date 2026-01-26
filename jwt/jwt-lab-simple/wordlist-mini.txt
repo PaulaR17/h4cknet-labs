@@ -1,0 +1,8 @@
+123456
+password
+admin
+secret
+supersecret
+jwt
+qwerty
+letmein
